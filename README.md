@@ -1,6 +1,8 @@
 # Tokyo-Tools
-Todo echo por mi por que los maestros dejan huella. 
-Lista de comprobación antes de subir una APK o AAB a Play Console
+
+Todo hecho por mi porque los maestros dejan huella.
+
+## Lista de comprobación antes de subir una APK o AAB a Play Console
 
 Antes de subir una APK o AAB a Play Console, revisa esta lista de comprobación técnica y de contenido para minimizar errores y rechazos:
 
